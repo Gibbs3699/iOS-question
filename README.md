@@ -32,4 +32,26 @@ Output: // Mumtaz
 ```
 
 # Design patterns
+Questions about design patterns, code architectures, and other programming approaches.
+
 # 1. How would you explain delegates to a new Swift developer?
+
+# Data
+Questions dealing with data and data structures.
+
+# 1. How is a dictionary different from an array?
+
+# Accessibility
+Questions that cover making apps easier to use for everyone.
+
+# 1. How would you explain Dynamic Type to a new iOS developer?
+
+# Frameworks
+Questions about Apple frameworks and APIs beyond UIKit and SwiftUI.
+
+# 1. How does CloudKit differ from Core Data?
+
+# iOS
+General questions about building for iOS itself, or UI questions that apply to both UIKit and SwiftUI.
+
+# 1. How do you create your UI layouts – storyboards or in code?
