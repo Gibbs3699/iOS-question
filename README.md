@@ -30,3 +30,6 @@ Output: // Mumtaz
         // Hussain
         // error: name is not found
 ```
+
+# Design patterns
+# 1. How would you explain delegates to a new Swift developer?
